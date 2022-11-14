@@ -46,4 +46,7 @@ First I created the following tables:<br/>
 
 ## Creating the Visualization<br/>
 
-No pictures here, but this was my ideation process:
+No pictures here, but this was my ideation process for creating the dashboard:<br/>
+- My goal was to create a one-sheet dashboard that tells the entire story
+- I wanted to create a few simple insights that would answer my questions
+- I wanted to make the dashboard interactive in order to drill into specific areas, months, years, etc.
