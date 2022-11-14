@@ -56,14 +56,14 @@ In the end I was able to accomplish this, and felt pretty good about the results
 ## Key Takeaways from the Data<br/>
 
 This info is also on the dashboard itself, but I'll repeat it here:<br/>
-- Now is still a good time to rent out an Aibnb.
+- **Now is still a good time to rent out an Aibnb.**
   - 2019 was the peak year but listings have been steady since then.
   - Summer months are the most popular for LA, but business appears to be consistent year-round.
-- Most popular areas are by the beach or downtown.
+- **Most popular areas are by the beach or downtown.**
   - Venice is the most popular location.
   - 3 of the top 5 locations are beachside areas.
   - 4 of the top 15 are Hollywood cities.
-- Rent out the entire property if possbile.
+- **Rent out the entire property if possbile.**
   - The large majority of listings are for the entire property.
 
 Of course, properties in LA are expensive, but if you are able to purchase one as an investment, the conclusions drawn here provide valuable insights!
