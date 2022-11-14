@@ -10,6 +10,14 @@ I've always had an interest in renting out an Airbnb. Being from Los Angeles, I 
 - **SQL** to analyze and format table data
 - **Power BI** for visualization
 
+**Desired Insights**<br/>
+- How has the market been trending yearly?
+- What are the most popular months?
+- What is the average price per night?
+- How many listings are there in LA?
+- Where are the most popular listings located?
+- What is the most popular listing type?
+
 ## Preparing the Project Data<br/>
 
 **The Dataset:**
@@ -29,4 +37,8 @@ First I created the following tables:<br/>
 
 **I then imported the files and queried the following table:**<br/>
 
-![MAIN QUERY](https://user-images.githubusercontent.com/111325425/201703151-ac8408ae-60c7-4809-a766-157337b2d1dc.PNG)
+![MAIN QUERY](https://user-images.githubusercontent.com/111325425/201703151-ac8408ae-60c7-4809-a766-157337b2d1dc.PNG)<br/>
+
+## Creating the Visualization<br/>
+
+No pictures here, but this was my ideation process:
