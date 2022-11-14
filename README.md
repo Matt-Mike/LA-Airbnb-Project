@@ -9,8 +9,9 @@ I've always had an interest in renting out an Airbnb. Being from Los Angeles, I 
 **Skills Used:**<br/>
 - **SQL** to analyze and format table data
 - **Power BI** for visualization
+<br/>
 
-**Desired Insights**<br/>
+**Desired Insights:**<br/>
 - How has the market been trending yearly?
 - What are the most popular months?
 - What is the average price per night?
