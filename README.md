@@ -1,4 +1,4 @@
 # LA-Airbnb-Project
 
-###### Project Summary
+## Project Summary
 
