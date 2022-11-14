@@ -50,3 +50,11 @@ No pictures here, but this was my ideation process for creating the dashboard:<b
 - My goal was to create a one-sheet dashboard that tells the entire story
 - I wanted to create a few simple insights that would answer my questions
 - I wanted to make the dashboard interactive in order to drill into specific areas, months, years, etc.
+
+In the end I was able to accomplish this, and felt pretty good about the results.<br/>
+
+## Key Takeaways from the Data<br/>
+
+This info is also on the dashboard itself, but I'll repeat it here:<br/>
+- Now is still a good time to rent out an Aibnb
+  - 2019 was the peak year but listings have been steady since then
